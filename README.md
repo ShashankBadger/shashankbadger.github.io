@@ -27,7 +27,7 @@ This project showcases my profile, skills, and online presence in a simple, clea
 
 ## 📸 Preview
 
-![Website Preview](screenshot.png)  
+![Website Preview](image.png)  
 *(Add a screenshot of your site and name it `screenshot.png`)*
 
 ---
